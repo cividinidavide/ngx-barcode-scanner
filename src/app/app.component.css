@@ -3,3 +3,8 @@
   height: 500px;
   object-fit: cover;
 }
+
+::ng-deep canvas {
+  position: absolute;
+  left: 0;
+}
